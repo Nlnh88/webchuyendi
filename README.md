@@ -2,7 +2,7 @@
 
 TripMate là website hỗ trợ người dùng tìm kiếm địa điểm du lịch, lập kế hoạch chuyến đi và quản lý các thông tin liên quan như lịch trình, ngân sách, danh sách công việc và thành viên tham gia.
 
-Dự án được xây dựng trong khuôn khổ môn **Thiết kế Web**, sử dụng PHP và MySQL với giao diện Bootstrap 5.
+Dự án được xây dựng trong khuôn khổ môn **Thiết kế Web** thực hiện bởi nhóm NOTHING, sử dụng PHP và MySQL với giao diện Bootstrap 5.
 
 ---
 
@@ -10,9 +10,9 @@ Dự án được xây dựng trong khuôn khổ môn **Thiết kế Web**, sử
 
 | STT | Thành viên | Vai trò |
 |-----|------------|---------|
-| 1 | **Hân** | Frontend / UI / Responsive / Testing |
-| 2 | **Bảo** | Backend PHP / Authentication / Trip / Itinerary |
-| 3 | **Hải** | Database / Admin / Budget / Favorite / Checklist |
+| 1 | **Nguyễn Lê Ngọc Hân** | Frontend / UI / Responsive / Testing |
+| 2 | **Lê Hoàng Gia Bảo** | Database / Authentication / Trip / Itinerary |
+| 3 | **Lê Bá Hải** | Backend PHP / Admin / Budget / Favorite / Checklist |
 
 ---
 
